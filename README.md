@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I turn caffeine into code and bugs into features</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <h3 align="left">Connect with me:</h3>
@@ -25,4 +25,5 @@
   
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagh006&show_icons=true&locale=en&layout=compact" alt="adityagh006" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityagh006&show_icons=true&locale=en" alt="adityagh006" /></p> -->
+
 
